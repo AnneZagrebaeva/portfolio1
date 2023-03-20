@@ -1,0 +1,119 @@
+
+body {
+    margin: 0;
+}
+
+.main {
+    background-color: black;
+    color: white;
+     position: relative; 
+    height: 400px;
+}
+
+.main img {
+   
+    height: 250px;
+    width: 250px;
+    
+}
+
+ .anna { 
+     position: absolute; 
+    left: 100px; 
+     top: 100px; 
+ } 
+
+.hello {
+    position: absolute;
+   left: 500px;
+    top: 200px;
+    font-size: xx-large;
+}
+
+.hello a {
+    text-decoration: none;
+    color: rgb(40, 209, 228);
+}
+
+
+.skills {
+    background-color: rgb(30, 30, 225);
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+    text-align: center;
+}
+
+.skills img {
+    height: 100px;
+    width: 100px;
+    padding: 30px;
+    }
+
+h2 {
+    text-align: center;
+    border-bottom: 2px solid black;
+    border-top: 2px solid black;
+    margin: 0;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+
+
+.works img {
+   
+    width: 100%;
+    
+    
+}
+
+.works {
+    display: flex;
+    justify-content: center;
+}
+
+.art {
+   
+    
+    
+    width: 20%;
+    padding: 30px;
+    
+
+
+}
+
+.apartment {
+    width: 20%;
+    padding: 30px;
+    display: inline-block;
+   
+}
+
+
+
+
+
+
+h3 {
+    text-align: center;
+    
+}
+
+.contacts {
+    background-color: black;
+    color: white;
+    font-size: larger;
+    height: 100px;
+    font-weight:700;
+    box-sizing: border-box;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+
+}
+
+
+
